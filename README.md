@@ -1,13 +1,15 @@
 # Ziele
+## 3. Tag:
+1709 erneut anschauen und 1713 machen.
+6907 aufgabe machen.
+Expertenziele lösen.
+
 ## 2. Tag:        
 1706 und 1707 fertig machen. 
 CSharp ausprobieren. 
 Nicht zu stark abgelenkt zu werden.
 ## Reflexion:
 Alle Aufgaben gemacht und auch weniger Abgelenk worden.
-
-
-
 
 ## 1. Tag:        
 LA 2701 fertig machen.
