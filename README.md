@@ -3,6 +3,9 @@
 1709 erneut anschauen und 1713 machen.
 6907 aufgabe machen.
 Expertenziele lösen.
+##Reflexion
+Anstelle Expertenziele habe ich ein Imput über Programmieren bekommen. 
+Den Rest habe ich gemacht. 
 
 ## 2. Tag:        
 1706 und 1707 fertig machen. 
