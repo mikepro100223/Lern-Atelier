@@ -2,7 +2,7 @@
 ## 4. Tag:
 1715 erneut anschauen und lösen.
 Expertenziele lösen.
-1610 lösen.
+Video fertig machen.
 ## Reflexion
 
 
