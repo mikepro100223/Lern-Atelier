@@ -4,7 +4,9 @@
 Expertenziele lösen.
 Video fertig machen.
 ## Reflexion
-
+1715 gelöst. 
+Expertenziel halb gelöst. 
+Anstatt Vidio fertig machen, Programmier Input.
 
 ## 3. Tag:
 1709 erneut anschauen und 1713 machen.
