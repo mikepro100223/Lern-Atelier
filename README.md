@@ -1,4 +1,11 @@
 # Ziele
+## 4. Tag:
+1715 erneut anschauen und lösen.
+Expertenziele lösen.
+1610 lösen.
+## Reflexion
+
+
 ## 3. Tag:
 1709 erneut anschauen und 1713 machen.
 6907 aufgabe machen.
