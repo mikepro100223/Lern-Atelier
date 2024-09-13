@@ -3,8 +3,8 @@
 LA_431_1720 machen.
 LA_431_1721 lösen.
 Video fertigstellen
-## Refrlexion
-
+## Reflexion
+Alles gemacht.
 
 ## 4. Tag:
 1715 erneut anschauen und lösen.
