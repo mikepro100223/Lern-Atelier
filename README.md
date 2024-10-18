@@ -1,4 +1,8 @@
 # Ziele
+## 7. Tag:
+M319 Array's und Switch nochmal anschauen und ausprobieren. 
+## Reflexion:
+
 ## 6. Tag:
 M319 programmieren anschauen.
 ## Reflexion:
