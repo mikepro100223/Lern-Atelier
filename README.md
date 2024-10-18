@@ -2,7 +2,7 @@
 ## 7. Tag:
 M319 Array's und Switch nochmal anschauen und ausprobieren. 
 ## Reflexion:
-
+M319 angeschaut und auspribiert. 
 ## 6. Tag:
 M319 programmieren anschauen.
 ## Reflexion:
