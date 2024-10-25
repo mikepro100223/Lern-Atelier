@@ -1,5 +1,9 @@
 # Ziele
 ## 7. Tag:
+M319 Debugging
+## Reflexion:
+Angeschaut. 
+## 7. Tag:
 M319 Array's und Switch nochmal anschauen und ausprobieren. 
 ## Reflexion:
 M319 angeschaut und auspribiert. 
