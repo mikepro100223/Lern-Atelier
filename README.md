@@ -4,7 +4,7 @@ M162 LA_162_1734.
 M319 Test Programm.
 M319 Portfolio.
 ## Reflexion:
-
+M319 ausprobiert und M162 LA_162_1734 angefangen. Portfolio fast fertig. 
 ## 7. Tag:
 M319 Debugging
 ## Reflexion:
