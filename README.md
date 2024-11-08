@@ -3,7 +3,8 @@
 LA_162_1724 lösen. 
 Programmier Projekkt arbeiten. 
 ## Reflexion:
-
+LA_162_1724 gemacht. 
+Am Programmier Projekt gearbeitet. 
 ## 8. Tag:
 M162 LA_162_1734.
 M319 Test Programm.
