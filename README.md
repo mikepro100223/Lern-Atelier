@@ -1,7 +1,13 @@
 # Ziele
+## 10. Tag:
+LA_6953 fertig lösen. 
+Programmier Projekt arbeiten. 
+M162 Portfolio. 
+## Reflexion:
+
 ## 9. Tag:
 LA_162_1724 lösen. 
-Programmier Projekkt arbeiten. 
+Programmier Projekt arbeiten. 
 ## Reflexion:
 LA_162_1724 gemacht. 
 Am Programmier Projekt gearbeitet. 
