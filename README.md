@@ -1,7 +1,7 @@
 # Ziele
 ## 10. Tag:
 LA_6953 fertig lösen. 
-Programmier Projekt arbeiten. 
+Programm für Programmier Projekt starten. 
 M162 Portfolio. 
 ## Reflexion:
 
