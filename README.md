@@ -4,7 +4,7 @@ LA_6953 fertig lösen.
 Programm für Programmier Projekt starten. 
 M162 Portfolio. 
 ## Reflexion:
-
+LA_6953 gemacht, Programm angefangen. 
 ## 9. Tag:
 LA_162_1724 lösen. 
 Programmier Projekt arbeiten. 
