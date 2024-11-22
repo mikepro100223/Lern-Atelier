@@ -1,7 +1,7 @@
 # Ziele
 ## 11. Tag:
 LA_6955 fertig lösen. 
-Weiter beim Programmier Projekt programmieren.  
+Weiter beim Programmier Projekt programmieren. 
 M162 Portfolio. 
 ## Reflexion:
 Aufgaben erledigt, Programm programmiert. 
