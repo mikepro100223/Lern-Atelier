@@ -1,4 +1,10 @@
 # Ziele
+## 12. Tag: 
+Weiter beim Programmier Projekt programmieren. 
+Programmier Projekt zu .exe machen. 
+M162 Portfolio. 
+## Reflexion:
+
 ## 11. Tag:
 LA_6955 fertig lösen. 
 Weiter beim Programmier Projekt programmieren. 
