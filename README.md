@@ -3,7 +3,7 @@
 LA_162_6992 lösen. 
 M162 Portfolio. 
 ## Reflexion:
-
+Aufgaben erledigt und am Portfolio gearbeitet. 
 ## 12. Tag: 
 Weiter beim Programmier Projekt programmieren. 
 Programmier Projekt zu .exe machen. 
