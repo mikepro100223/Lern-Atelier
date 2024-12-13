@@ -1,8 +1,10 @@
 # Ziele
 ## 13. Tag: 
-
+Idde für eigenes Programmierprojekt finden. 
+EV3 vorbereiten. 
+VSC für EV3 vorbereiten. 
 ## Reflexion:
-
+Alles vorbereitet. Bereit das Programm zu starten. 
 ## 12. Tag: 
 LA_162_6992 lösen. 
 M162 Portfolio. 
