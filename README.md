@@ -1,4 +1,8 @@
 # Ziele
+## 13. Tag: 
+
+## Reflexion:
+
 ## 12. Tag: 
 LA_162_6992 lösen. 
 M162 Portfolio. 
