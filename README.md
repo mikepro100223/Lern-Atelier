@@ -4,7 +4,8 @@ Chasis bauen.
 Lenkungs Typen ausprobieren. 
 Antrieb überlegen. 
 ## Reflexion:
-
+Chasis ist fast fertig. 
+Lenkung wurde angefangen und Antriebsaxe wurde Online gebaut. 
 ## 13. Tag: 
 Idee für eigenes Programmierprojekt finden. 
 EV3 vorbereiten. 
