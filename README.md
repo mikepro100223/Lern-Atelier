@@ -1,6 +1,12 @@
 # Ziele
+## 14. Tag: 
+Chasis bauen. 
+Lenkungs Typen ausprobieren. 
+Antrieb überlegen. 
+## Reflexion:
+
 ## 13. Tag: 
-Idde für eigenes Programmierprojekt finden. 
+Idee für eigenes Programmierprojekt finden. 
 EV3 vorbereiten. 
 VSC für EV3 vorbereiten. 
 ## Reflexion:
