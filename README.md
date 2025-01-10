@@ -1,4 +1,10 @@
 # Ziele
+## 15. Tag: 
+Lenkung fertig bauen.
+Antriebsachse bauen. 
+Computer einbauen.
+## Reflexion:
+
 ## 14. Tag: 
 Chasis bauen. 
 Lenkungs Typen ausprobieren. 
