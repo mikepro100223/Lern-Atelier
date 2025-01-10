@@ -4,7 +4,7 @@ Lenkung fertig bauen.
 Antriebsachse bauen. 
 Computer einbauen.
 ## Reflexion:
-
+Fahrzeug technik ist fast fertig. 
 ## 14. Tag: 
 Chasis bauen. 
 Lenkungs Typen ausprobieren. 
