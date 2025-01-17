@@ -1,4 +1,10 @@
 # Ziele
+## 16. Tag: 
+Fahrzeug fertig bauen.
+Fahrzeug mit Programm manuel fahren lassen.
+M164 LB-Projekt anfangen. 
+## Reflexion:
+
 ## 15. Tag: 
 Lenkung fertig bauen.
 Antriebsachse bauen. 
