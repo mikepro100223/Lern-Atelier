@@ -4,7 +4,7 @@ Fahrzeug fertig bauen.
 Fahrzeug mit Programm manuel fahren lassen.
 M164 LB-Projekt anfangen. 
 ## Reflexion:
-
+M164 LB-Projekt angefangen. Fahrzeug ist fertig. Das Fahrzeug konnte leider nooch nicht fahren, da ich Micro-Python lernen muss. 
 ## 15. Tag: 
 Lenkung fertig bauen.
 Antriebsachse bauen. 
