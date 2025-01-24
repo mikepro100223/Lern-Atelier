@@ -1,4 +1,11 @@
 # Ziele
+## 17. Tag: 
+Das Fahrzeug soll auf Comamnd Fahren können.
+Das Fahrzeug soll auf Command Lenken können.
+Servo Lenkung evtl. anfangen zu programieren. 
+M164 LB-Projekt weitermachen. 
+## Reflexion:
+
 ## 16. Tag: 
 Fahrzeug fertig bauen.
 Fahrzeug mit Programm manuel fahren lassen.
