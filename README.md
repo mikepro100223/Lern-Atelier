@@ -5,7 +5,7 @@ Das Fahrzeug soll auf Command Lenken können.
 Servo Lenkung evtl. anfangen zu programieren. 
 M164 LB-Projekt weitermachen. 
 ## Reflexion:
-
+Fahrzeug kann auf Command lenken und fahren. Für die Servo lenkung habe ich noch keine Zeit gehabbt. 
 ## 16. Tag: 
 Fahrzeug fertig bauen.
 Fahrzeug mit Programm manuel fahren lassen.
