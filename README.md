@@ -1,4 +1,10 @@
 # Ziele
+## 19. Tag: 
+M162 LB-Projekt weitermachen.
+## Reflexion:
+
+## 18. Tag: 
+Ferien!!!
 ## 17. Tag: 
 Das Fahrzeug soll auf Comamnd Fahren können.
 Das Fahrzeug soll auf Command Lenken können.
