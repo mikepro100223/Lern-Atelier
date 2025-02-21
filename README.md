@@ -2,9 +2,10 @@
 ## 19. Tag: 
 M162 LB-Projekt weitermachen.
 ## Reflexion:
-
+Logisches Datenmodel nach UML ist fertig. 
+Angefangen mit den Aufgaben. 
 ## 18. Tag: 
-Ferien!!!
+Ferien!!!☺
 ## 17. Tag: 
 Das Fahrzeug soll auf Comamnd Fahren können.
 Das Fahrzeug soll auf Command Lenken können.
