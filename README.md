@@ -4,7 +4,7 @@ Fernsteuerungs Funktion ausprobieren und Programieren.
 Servo Lenkung Programieren. 
 Evtl. Smooth accelerating and stopping ins Programm hinzufügen. 
 ## Reflexion:
-
+Die Fernsteuerung zu programmieren, dauert länger als gedacht und ist Komplex. Ich bin nicht zur Servo Lenkung gekommen, jedoch ist die Fernsteuerung Funktionabel, hat manchmal aber doch noch Probleme. 
 ## 19. Tag: 
 M162 LB-Projekt weitermachen.
 ## Reflexion:
