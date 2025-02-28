@@ -2,7 +2,7 @@
 ## 20. Tag: 
 Fernsteuerungs Funktion ausprobieren und Programieren.
 Servo Lenkung Programieren. 
-Evtl. Smooth accelerating and stopping, hinein programieren. 
+Evtl. Smooth accelerating and stopping ins Programm hinzufügen. 
 ## Reflexion:
 
 ## 19. Tag: 
