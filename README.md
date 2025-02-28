@@ -1,4 +1,10 @@
 # Ziele
+## 20. Tag: 
+Fernsteuerungs Funktion ausprobieren und Programieren.
+Servo Lenkung Programieren. 
+Evtl. Smooth accelerating and stopping, hinein programieren. 
+## Reflexion:
+
 ## 19. Tag: 
 M162 LB-Projekt weitermachen.
 ## Reflexion:
